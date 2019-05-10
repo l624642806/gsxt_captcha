@@ -1,2 +1,10 @@
-/home/geng/darknet/jiyan/data/valid/1530951687.jpg
-/home/geng/darknet/jiyan/data/valid/1530951693.jpg
+/home/lhk/lhk_work/gsxt_captcha/jiyan/data/valid/verfiy_img1553589642.png
+/home/lhk/lhk_work/gsxt_captcha/jiyan/data/valid/verfiy_img1553589532.png
+/home/lhk/lhk_work/gsxt_captcha/jiyan/data/valid/verfiy_img1553590115.png
+/home/lhk/lhk_work/gsxt_captcha/jiyan/data/valid/verfiy_img1553589553.png
+/home/lhk/lhk_work/gsxt_captcha/jiyan/data/valid/verfiy_img1553590013.png
+/home/lhk/lhk_work/gsxt_captcha/jiyan/data/valid/verfiy_img1553589811.png
+/home/lhk/lhk_work/gsxt_captcha/jiyan/data/valid/verfiy_img1553589574.png
+/home/lhk/lhk_work/gsxt_captcha/jiyan/data/valid/verfiy_img1553589786.png
+/home/lhk/lhk_work/gsxt_captcha/jiyan/data/valid/verfiy_img1553590237.png
+/home/lhk/lhk_work/gsxt_captcha/jiyan/data/valid/verfiy_img1553589884.png
