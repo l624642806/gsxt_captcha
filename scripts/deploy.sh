@@ -8,6 +8,12 @@ cd ~
 rm -r -f gsxt_captcha
 # 进行克隆
 git clone https://github.com/l624642806/gsxt_captcha.git
-# 配置文件路径
-cd script_related
+
+
+cd gsxt_captcha/scripts
+# 运行配置脚本
 sh config.sh
+# 复制两个脚本到 script_related
+cp -f config.sh ~/script_related
+cp -f deploy.sh ~/script_related
+
